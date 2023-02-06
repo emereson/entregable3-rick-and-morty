@@ -50,7 +50,7 @@ function App() {
   return (
     <div className="app">
       <div className="portada">
-        <img className='portada__img' src="./src/img/1.gif" alt="" />
+        <img className='portada__img' src="./src/img/1.jpg" alt="" />
         </div>
       <form className='form' onSubmit={handleSubmit}>
         <input 
