@@ -7,8 +7,8 @@ body{
     margin: 0 auto;
     font-family: 'Nunito', sans-serif;
     color: white;
-    max-width: 1200px;
-    background:url(./img/4.jpg) center top -5.8em  ;
+    max-width: 1300px;
+    background:url(/4.jpg) center top -7.5em  ;
 }
 h1,h2,h3,p,ul{
     margin-top: 0;
